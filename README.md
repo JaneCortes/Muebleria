@@ -10,5 +10,5 @@ Este es un proyecto de aplicación web para una tienda de muebles en línea. Per
 ## Tecnologías Utilizadas
 + **HTML/CSS:** Para la estructura y el diseño de la interfaz de usuario.
 + **JavaScript:** Para la funcionalidad interactiva y la manipulación de datos en el frontend.
-##Vista Previa del Proyecto
+## Vista Previa del Proyecto
 ![Demo](/imagenes/vistaprevia.png)
